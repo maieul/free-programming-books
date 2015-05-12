@@ -10,6 +10,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
+* [Elasticsearch](#elasticsearch)
 * [Erlang](#erlang)
 * [Fortran](#fortran)
 * [Golang](#golang)
@@ -58,7 +59,7 @@
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
-
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### 版本控制
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -106,6 +107,8 @@
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
+### Elasticsearch
+* [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
 
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
@@ -161,7 +164,7 @@
 
 ### Node.js
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
+* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details)（社区翻译）
 
 
 ### Perl
@@ -173,7 +176,7 @@
 
 ### PHP
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
-* [PHP5中文手册](http://php.jz123.cn/)
+* [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
 
